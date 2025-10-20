@@ -9,7 +9,7 @@ A minimal Dockerized static website served with Nginx — project used for DevOp
 * `nginx.yml` — Ansible playbook to install and run Nginx (local demo).
 * `inventory` — Ansible inventory for local testing.
 * `.gitignore` — files to ignore.
-* `LICENSE` — license for the project (if present).
+* `LICENSE` — license for the project.
 
 ## Quick start — run locally with Docker
 

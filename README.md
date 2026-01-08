@@ -1,6 +1,6 @@
 # MyWebServer
 
-A minimal Dockerized static website served with Nginx — project used for DevOps practice.
+A minimal Dockerized static website served with Nginx.
 
 ## Contents
 
